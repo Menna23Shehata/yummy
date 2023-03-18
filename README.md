@@ -1,4 +1,4 @@
 # yummy
 # food receipes from all around the world 
 
-https://menna23shehata.github.io/yummy3/
+https://menna23shehata.github.io/yummy/
