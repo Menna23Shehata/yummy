@@ -1,0 +1,22 @@
+@media (max-width: 767px) { 
+    .contact .container{
+        max-width: 75%;
+        margin: auto;
+    }
+    #searchDiv input{
+        margin-bottom: 15px;
+    }
+}
+
+@media (min-width: 768px) { 
+    .contact .container{
+        max-width: 92%;
+        margin: auto;
+    }
+}
+
+@media (min-width: 992px) { 
+    .contact .container{
+        width: 100%;
+    }
+}
